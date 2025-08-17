@@ -31,5 +31,5 @@ This Python script automates the process of opening Chrome, navigating to YouTub
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/youtube-auto-subscribe.git
+   git clone https://github.com/zerodbg/py_auto_gui.git
    cd youtube-auto-subscribe
